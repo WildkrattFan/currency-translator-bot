@@ -19,5 +19,8 @@ docker-compose up
 ```
 This will create the required database and also start the bot. 
 
+## Hosting
+For hosting the bot, the easiest way is to create a postgres database somewhere, get a connection string for a database, and then run the docker file. If you need more specific hosting help, please see the support section.
+
 ## Support
 Support is provided in my [official discord](https://discord.gg/GnqZQ4Wemd)
